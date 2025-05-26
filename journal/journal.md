@@ -24,5 +24,9 @@ I decided upon using a 4 layer PCB, using easyEDA to make it as quite frankly Ki
 
 So then, after bothering with all of this I finally set out to start the desing of the board. I looked through those datasheets, and immidiately found my first problem, the power supply. It uses some weird switching super-sensitve powersupply, and as of now I am still working upon a solution.
 
+2 hrs later
 
-**HOURS COMPLETED: 5 (*TOTAL:5*)**
+Finally found a half solution, though I don't know if it will really work. It is an absolutely essential part of the board. IDK what to do.
+
+
+**HOURS COMPLETED: 6 (*TOTAL:6*)**
