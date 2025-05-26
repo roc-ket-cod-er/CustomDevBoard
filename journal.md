@@ -40,5 +40,8 @@ On the other hand, getting wifi and stuff to work seems like it is going to be t
 
 Also, I added a Micro-SD card reaader as a feature I wanted. After seeing how complex wifi is, and how long it took to get working, not to mention the fact that I now have two processors to take care of and make everything work, I am thinking of expanding my budget to the $350 that the advanced projects have availible. Just as the advanced projects page said, I saw that my previous experience was really helpful.
 
+Ok I have gotten everything started, and progress is slow but steady. I have finished the 3.3V to 1.1V switching converter, a big headache in and of itself. Then, I finished the buttons. 
 
-**HOURS COMPLETED:3 (*TOTAL:9*)**
+The switching converter is what I was talking about the problem yesterday, and not only is it painful with the schematic, but as there are so many things so densly packed, it is hard to get all the wires doing things even with all of these layers.
+
+**HOURS COMPLETED:4.5 (*TOTAL:10.5*)**
