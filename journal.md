@@ -10,6 +10,7 @@ I knew that I had wanted to create a custom devboard that would both beat every 
 8. A 3.3V line
 9. USB-C and USB-micro input ports
 10. USB-A / USB-C output ports (for phone-charging, etc.)
+11. D2 - A MicroSD card reader
 And hopefully more to come, though I don't really know
 
 Anyways, after getting my goal sort of set. I decided to get ChatGPT to help with some more brainstorming, as I was pretty uncertain about the programmablity, as I would love to have a high-performance board that anyone could use easily.
@@ -31,7 +32,13 @@ Finally found a half solution, though I don't know if it will really work. It is
 
 **HOURS COMPLETED: 6 (*TOTAL:6*)**
 
-##Day 2: Starting Power and WIFI.
+## Day 2: Starting Power and WIFI.
+
+Ok so there is this weird inductor that the rp2350 uses, so I took a deep dive into the schematic pages and the guidlines, and I think that my current design will, in fact, work.
+
+On the other hand, getting wifi and stuff to work seems like it is going to be the biggest challenge. Getting wifi is honestly the most stupedest and hardest thing I have worked on so far. What, after like an hour of datasheet diving, I found out that to get the official stuff to work it is going to be way to hard, so I am going to add another board onto the thing, an esp32 board, making this have 2 CPUs: you can chose either one to work with, or both. This is going to make power delivery and stuff more complicated, and it is going to require more USB ports to be able to program this effectively, not to mention that as WIFI is so hard to get working it is going to require some very complicated wiring. With those weird things, I think I will have to use a 4-layer pcb, especially as USB can be very finiky with a ground that is far away.
+
+Also, I added a Micro-SD card reaader as a feature I wanted. After seeing how complex wifi is, and how long it took to get working, not to mention the fact that I now have two processors to take care of and make everything work, I am thinking of expanding my budget to the $350 that the advanced projects have availible. Just as the advanced projects page said, I saw that my previous experience was really helpful.
 
 
 **HOURS COMPLETED:3 (*TOTAL:9*)**
