@@ -30,3 +30,8 @@ Finally found a half solution, though I don't know if it will really work. It is
 
 
 **HOURS COMPLETED: 6 (*TOTAL:6*)**
+
+##Day 2: Starting Power and WIFI.
+
+
+**HOURS COMPLETED:3 (*TOTAL:9*)**
