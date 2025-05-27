@@ -49,7 +49,7 @@ The switching converter is what I was talking about the problem yesterday, and n
 
 ## Day 3: A bit of studying (May 27)
 
-Just a did some studying of the schematics of the rp2350. I also thought of adding an H-bridge, so that you don't have to worry about external wiring.
+Just a did some studying of the schematics of the rp2350. I also thought of adding an H-bridge, so that you don't have to worry about external wiring. I also did some pcb desing, mainly with the flash.
 
 
 **HOURS COMPLETED: 1 (*TOTAL:11.5*)**
