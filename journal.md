@@ -1,4 +1,4 @@
-## Day 1: Brainstroming
+## Day 1: Brainstroming (May 25)
 I knew that I had wanted to create a custom devboard that would both beat every devboard on planet earth in value and features. My first step was choosing a micro-controller. As I had already designed devboard around the weaker rp2040, I decided to step things up with an RP2350B. This would have some 48 GPIO, which should be ample for any maker. As mentioned previously, I wanted every featuer that I could afford to put into the board, and with a budget of $150 USD, I felt I definetly could get a lot done. After much contemplation, I decided that I wanted to add the following featuers:
 1. WIFI
 2. A built-in OLED
@@ -11,6 +11,7 @@ I knew that I had wanted to create a custom devboard that would both beat every 
 9. USB-C and USB-micro input ports
 10. USB-A / USB-C output ports (for phone-charging, etc.)
 11. D2 - A MicroSD card reader
+12. D3 -  An H-Bridge
 And hopefully more to come, though I don't really know
 
 Anyways, after getting my goal sort of set. I decided to get ChatGPT to help with some more brainstorming, as I was pretty uncertain about the programmablity, as I would love to have a high-performance board that anyone could use easily.
@@ -32,7 +33,7 @@ Finally found a half solution, though I don't know if it will really work. It is
 
 **HOURS COMPLETED: 6 (*TOTAL:6*)**
 
-## Day 2: Starting Power and WIFI.
+## Day 2: Starting Power and WIFI (May 26)
 
 Ok so there is this weird inductor that the rp2350 uses, so I took a deep dive into the schematic pages and the guidlines, and I think that my current design will, in fact, work.
 
@@ -45,3 +46,10 @@ Ok I have gotten everything started, and progress is slow but steady. I have fin
 The switching converter is what I was talking about the problem yesterday, and not only is it painful with the schematic, but as there are so many things so densly packed, it is hard to get all the wires doing things even with all of these layers.
 
 **HOURS COMPLETED:4.5 (*TOTAL:10.5*)**
+
+## Day 3: A bit of studying (May 27)
+
+Just a did some studying of the schematics of the rp2350. I also thought of adding an H-bridge, so that you don't have to worry about external wiring.
+
+
+**HOURS COMPLETED: 1 (*TOTAL:11.5*)**
