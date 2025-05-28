@@ -1,3 +1,10 @@
+---
+title: "CustomDevBoard"
+author: "Madhav"
+description: "A devboard with every imaginable feature."
+created_at: "2025-25-5"
+---
+
 ## Day 1: Brainstroming (May 25)
 I knew that I had wanted to create a custom devboard that would both beat every devboard on planet earth in value and features. My first step was choosing a micro-controller. As I had already designed devboard around the weaker rp2040, I decided to step things up with an RP2350B. ![image](https://github.com/user-attachments/assets/9cd9381a-98af-4fcb-982c-be620f0d517f)
 This would have some 48 GPIO, which should be ample for any maker. As mentioned previously, I wanted every featuer that I could afford to put into the board, and with a budget of $150 USD, I felt I definetly could get a lot done. After much contemplation, I decided that I wanted to add the following featuers:
