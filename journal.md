@@ -1,5 +1,6 @@
 ## Day 1: Brainstroming (May 25)
-I knew that I had wanted to create a custom devboard that would both beat every devboard on planet earth in value and features. My first step was choosing a micro-controller. As I had already designed devboard around the weaker rp2040, I decided to step things up with an RP2350B. This would have some 48 GPIO, which should be ample for any maker. As mentioned previously, I wanted every featuer that I could afford to put into the board, and with a budget of $150 USD, I felt I definetly could get a lot done. After much contemplation, I decided that I wanted to add the following featuers:
+I knew that I had wanted to create a custom devboard that would both beat every devboard on planet earth in value and features. My first step was choosing a micro-controller. As I had already designed devboard around the weaker rp2040, I decided to step things up with an RP2350B. ![image](https://github.com/user-attachments/assets/9cd9381a-98af-4fcb-982c-be620f0d517f)
+This would have some 48 GPIO, which should be ample for any maker. As mentioned previously, I wanted every featuer that I could afford to put into the board, and with a budget of $150 USD, I felt I definetly could get a lot done. After much contemplation, I decided that I wanted to add the following featuers:
 1. WIFI
 2. A built-in OLED
 3. GPS
@@ -53,3 +54,15 @@ Just a did some studying of the schematics of the rp2350. I also thought of addi
 
 
 **HOURS COMPLETED: 1 (*TOTAL:11.5*)**
+
+## Day 4: WHY WIFI????????????????????????? (May 28)
+
+I'm a be honest: wifi might not work. One after and other after another, the problems keep coming. The ESP32 that I was going to use has no real way of connecting it to a USB port, but the other one that I could use requires JLCPCB Standard Assembly. I honestly don't know what to do, as Standard cost $25 vs Economic at $8 for the setup costs. See below for the image of the ESP32 that I was going to use.
+![image](https://github.com/user-attachments/assets/4645a7f4-61fe-40be-840f-a30065d8d3ce)
+I want to use:
+![image](https://github.com/user-attachments/assets/cf4687d3-f92a-421c-b39e-30699047fef8)
+But I don't want to spend an extra $18 to use it 😿
+
+On the other front, it seems like the rp2350B part of the board should come along pretty well, as my desing looks close enough to the recomended design.
+
+**HOURS COMPLETED:1.5 (*TOTAL:13*)**
