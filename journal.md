@@ -73,3 +73,15 @@ But I don't want to spend an extra $18 to use it 😿
 On the other front, it seems like the rp2350B part of the board should come along pretty well, as my desing looks close enough to the recomended design.
 
 **HOURS COMPLETED:1.5 (*TOTAL:13*)**
+
+## Day 5: SCREW IT ALL
+
+You know what. Enough is enough. The ESP-32 will not bully me anymore. I will use it. I will command it. IT WILL BE MINE!!!!!!!!!!!!!!!
+
+What I mean? I'm going to use the ESP-32-VROOM-32D-N16. I WILL USE IT. After soooooo much research, I will find a way to connect it to a USB port because I have to. I will get wifi.
+![images](https://github.com/user-attachments/assets/a294a33f-a145-49bb-abcf-6a5ca37a81ab)
+And this is the board I will use ^
+
+Yeah thats about all i got done just some research and hard-core decision making. Gods this took too long.
+
+**HOURS COMPLETED: 1.5 (*TOTAL:13*)**
