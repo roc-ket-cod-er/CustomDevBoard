@@ -74,7 +74,7 @@ On the other front, it seems like the rp2350B part of the board should come alon
 
 **HOURS COMPLETED:1.5 (*TOTAL:13*)**
 
-## Day 5: SCREW IT ALL
+## Day 5: Its Decided.
 
 You know what. Enough is enough. The ESP-32 will not bully me anymore. I will use it. I will command it. IT WILL BE MINE!!!!!!!!!!!!!!!
 
@@ -84,4 +84,12 @@ And this is the board I will use ^
 
 Yeah thats about all i got done just some research and hard-core decision making. Gods this took too long.
 
-**HOURS COMPLETED: 1 (*TOTAL:14*)**
+Ooh and adding a radio might be nice to add.
+
+*About an hour later
+
+Time to see how to connect the ESP32-WROOM-32D-N16 to wifi.
+
+*Studies for an hour
+
+**HOURS COMPLETED: 2 (*TOTAL:15*)**
