@@ -84,4 +84,4 @@ And this is the board I will use ^
 
 Yeah thats about all i got done just some research and hard-core decision making. Gods this took too long.
 
-**HOURS COMPLETED: 1.5 (*TOTAL:13*)**
+**HOURS COMPLETED: 1 (*TOTAL:14*)**
