@@ -79,7 +79,9 @@ On the other front, it seems like the rp2350B part of the board should come alon
 You know what. Enough is enough. The ESP-32 will not bully me anymore. I will use it. I will command it. IT WILL BE MINE!!!!!!!!!!!!!!!
 
 What I mean? I'm going to use the ESP-32-VROOM-32D-N16. I WILL USE IT. After soooooo much research, I will find a way to connect it to a USB port because I have to. I will get wifi.
+
 ![images](https://github.com/user-attachments/assets/a294a33f-a145-49bb-abcf-6a5ca37a81ab)
+
 And this is the board I will use ^
 
 Yeah thats about all i got done just some research and hard-core decision making. Gods this took too long.
@@ -92,4 +94,10 @@ Time to see how to connect the ESP32-WROOM-32D-N16 to wifi.
 
 *Studies for an hour
 
-**HOURS COMPLETED: 2 (*TOTAL:15*)**
+Ok. I think I got the schematic for the USB-UART chip. It wasn't that hard, however whoever made the datasheet deserves to be fired immedieately. If you want you product to sell, make the date sheet read able at least! To make sure that no one has to experience this pain again, I have linked the schematic below:
+
+![image](https://github.com/user-attachments/assets/88ec6c36-8044-4527-9dd1-a58e0d8a17e2)
+
+P.S. ChatGPT hallucinating half the time definitely didn't help. It thought VCC was GND!!!! and then after I corrected it, it the TXD was GND. Bro why can't AI be better ☹️
+
+**HOURS COMPLETED: 3.5 (*TOTAL:16.5*)**
