@@ -74,7 +74,7 @@ On the other front, it seems like the rp2350B part of the board should come alon
 
 **HOURS COMPLETED:1.5 (*TOTAL:13*)**
 
-## Day 5: Its Decided.
+## Day 5: Its Decided. (May 29)
 
 You know what. Enough is enough. The ESP-32 will not bully me anymore. I will use it. I will command it. IT WILL BE MINE!!!!!!!!!!!!!!!
 
@@ -101,3 +101,15 @@ Ok. I think I got the schematic for the USB-UART chip. It wasn't that hard, howe
 P.S. ChatGPT hallucinating half the time definitely didn't help. It thought VCC was GND!!!! and then after I corrected it, it the TXD was GND. Bro why can't AI be better ☹️
 
 **HOURS COMPLETED: 3.5 (*TOTAL:16.5*)**
+
+## Day 6: More ESP32ing (May 30)
+
+I solidified my decision to use the ESP32-WROOM-32D-N16 over the ESP32-WROOM-32***E***-N***14***. This is because for the minimul power increase and newerness of the 32E, I would lose out on 12 MB of flash, and to the ultimate makes who would be using my board, that would be simply unacceptable. Like honestly, why whould I take 4MB of memory (on the ESP32) when I only have 16MB on the RP2350, and I could get the 32D which has 16 MB?
+
+Anyways, the REAL work I got done was getting the main power chain of the ESP32:
+
+![image](https://github.com/user-attachments/assets/46f60d95-a8ac-4adc-ba9a-b78622f61f63)
+
+and I also got the interchip communication part done. This would be how the two different chips will comunicate. I also researched all of the pins on the ESP-32 that can't be used. In case you are also making a similar board, know you can't use the SD pins (SD0-3), the CMD, CLK, SENSOR_VP or the SENSOR_VM pins. This also means that UART 1 of the ESP can't be used as it is used internally, so we will use UART 2. Gods I think this took too long.
+
+**HOURS COMPLETED:1.5 (*TOTAL:18*)**
