@@ -115,3 +115,9 @@ and I also got the interchip communication part done. This would be how the two 
 Anyways, I'm really holding off on the RP2350 part of the board as it is pretty similar to the RP2040, and I have a custom devboard (designed for OnBoard) coming in the mail, and I can see if I made any fatal mistakes that I can learn from and not do on this board.
 
 **HOURS COMPLETED:1.5 (*TOTAL:18*)**
+
+## Day 7: Ethernet? (June 2nd)
+
+I've been having headaches for the past few days, but today I had an idea of using Ethernet. After a bit of research, though, it felt a bit too much, as I already have so many features, including wifi on the ESP32.
+
+**HOURS COMPLETED: 0.5 (*TOTAL:18.5*)**
