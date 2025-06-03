@@ -121,3 +121,11 @@ Anyways, I'm really holding off on the RP2350 part of the board as it is pretty 
 I've been having headaches for the past few days, but today I had an idea of using Ethernet. After a bit of research, though, it felt a bit too much, as I already have so many features, including wifi on the ESP32.
 
 **HOURS COMPLETED: 0.5 (*TOTAL:18.5*)**
+
+## Day 8: Coding. (June 3rd)
+
+Ok, well using the main chip is going to be a bit hard, as currently there isn't much micropython support for the RP2350B, however the esp32 stuff should work well, and there is some sort of documentation here:
+https://micropython.org/download/WEACTSTUDIO_RP2350B_CORE/
+Lets hope it actually works.
+
+**HOURS COMPLETED: 0.5 (*TOTAL:19*)**
