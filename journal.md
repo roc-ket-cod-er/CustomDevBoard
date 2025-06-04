@@ -129,3 +129,13 @@ https://micropython.org/download/WEACTSTUDIO_RP2350B_CORE/
 Lets hope it actually works.
 
 **HOURS COMPLETED: 0.5 (*TOTAL:19*)**
+
+## Day 9: Battery Charging (June 4th)
+
+![C379389_C379389-ÕýÃæ](https://github.com/user-attachments/assets/88673be3-e093-4e10-9999-526f04c17d26)
+
+I am thinking of using these chips for battery charging, two of them per board, so that they can individually charge the batteries, though I do not know if it is a good idea. The problem is, these chips require an input voltage higher than an output voltage, so I might just find a chip that can do that.
+
+Ok. I have a new idea: I am going to have 
+
+**HOURS COMPETED: 2 (*TOTAL:21*)**
