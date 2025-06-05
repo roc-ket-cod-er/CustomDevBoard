@@ -19,7 +19,7 @@ This would have some 48 GPIO, which should be ample for any maker. As mentioned 
 9. USB-C and USB-micro input ports
 10. USB-A / USB-C output ports (for phone-charging, etc.)
 11. D2 - A MicroSD card reader
-12. D3 -  An H-Bridge
+12. D3 - A high current H-Bridge
 And hopefully more to come, though I don't really know
 
 Anyways, after getting my goal sort of set. I decided to get ChatGPT to help with some more brainstorming, as I was pretty uncertain about the programmablity, as I would love to have a high-performance board that anyone could use easily.
@@ -136,6 +136,6 @@ Lets hope it actually works.
 
 I am thinking of using these chips for battery charging, two of them per board, so that they can individually charge the batteries, though I do not know if it is a good idea. The problem is, these chips require an input voltage higher than an output voltage, so I might just find a chip that can do that.
 
-Ok. I have a new idea: I am going to have 
+Ok. I have a new idea: I am going to have a boost converter which will then feed into the TP5100 and stuff and actually charge the thing. A plus of this is that we will be able to get a 12V line!!! This, and I am also starting to decide upon which DC motor driver to use, as I want the 4A rating.
 
-**HOURS COMPETED: 2 (*TOTAL:21*)**
+**HOURS COMPETED: 3 (*TOTAL:22*)**
