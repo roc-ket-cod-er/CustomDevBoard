@@ -138,4 +138,8 @@ I am thinking of using these chips for battery charging, two of them per board, 
 
 Ok. I have a new idea: I am going to have a boost converter which will then feed into the TP5100 and stuff and actually charge the thing. A plus of this is that we will be able to get a 12V line!!! This, and I am also starting to decide upon which DC motor driver to use, as I want the 4A rating.
 
-**HOURS COMPETED: 3 (*TOTAL:22*)**
+Oh also I want a built in multimeter so that I can access battery voltage and stuff through a not janky circuit as in my current devboard.
+
+Btw, I also attended the meeting :)
+
+**HOURS COMPETED: 4 (*TOTAL:23*)**
