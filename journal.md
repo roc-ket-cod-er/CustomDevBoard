@@ -143,3 +143,9 @@ Oh also I want a built in multimeter so that I can access battery voltage and st
 Btw, I also attended the meeting :)
 
 **HOURS COMPETED: 4 (*TOTAL:23*)**
+
+## Day 10 (June 5th)
+
+Just a quick study period, today I spent just a few minutes working on making choosing a boost converter (not chosen yet) and then working on some code and stuff that I would include to drive the SSD1306. Because the default font size and stuff is so small, I will be using a special custom font size maker and custom font maker so that whoever uses this OLED will be able to use whichever preloaded font they want to use. As the flash space will be 16 + 16 MB, I feel its ok to load like 5 different fonts and sizes, as they won't take too much space.
+
+**HOURS COMPLETED: 0.5 (*TOTAL:23.5*)**
