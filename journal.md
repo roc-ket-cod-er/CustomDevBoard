@@ -157,3 +157,7 @@ Today, I worked upon seeing which of my features that I want will really work. A
 ![C393941_C393941-ÕýÃæ](https://github.com/user-attachments/assets/1cb81d69-c512-49cc-99c0-57239e36b1d9)
 
 Something like this ^ should work.
+
+On a sadder note, however, GPS looks like it is going to be very expensive to integrate. With each module coming to almost $6, it will make each board's cost be very high. It would probably put the board out of reach for too many people 😢
+
+**HOURS COMPLETED: 1.5 (*TOTAL:25*)**
