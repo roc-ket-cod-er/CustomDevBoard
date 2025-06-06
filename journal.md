@@ -149,3 +149,11 @@ Btw, I also attended the meeting :)
 Just a quick study period, today I spent just a few minutes working on making choosing a boost converter (not chosen yet) and then working on some code and stuff that I would include to drive the SSD1306. Because the default font size and stuff is so small, I will be using a special custom font size maker and custom font maker so that whoever uses this OLED will be able to use whichever preloaded font they want to use. As the flash space will be 16 + 16 MB, I feel its ok to load like 5 different fonts and sizes, as they won't take too much space.
 
 **HOURS COMPLETED: 0.5 (*TOTAL:23.5*)**
+
+## Day 11: NitPicks (June 6th)
+
+Today, I worked upon seeing which of my features that I want will really work. A THT display would be nice, but I don't think that it is a good idea. I might come back to it latter though. Anyways, I think that a SD card holder is a very good idea, as they are dirt cheap and there are a billion on JLCPCB parts.
+
+![C393941_C393941-ÕýÃæ](https://github.com/user-attachments/assets/1cb81d69-c512-49cc-99c0-57239e36b1d9)
+
+Something like this ^ should work.
