@@ -161,3 +161,20 @@ Something like this ^ should work.
 On a sadder note, however, GPS looks like it is going to be very expensive to integrate. With each module coming to almost $6, it will make each board's cost be very high. It would probably put the board out of reach for too many people 😢
 
 **HOURS COMPLETED: 1.5 (*TOTAL:25*)**
+
+
+## Day 12: A decision
+
+After much contemplation about the previous topic, I have decided that I will, in fact, make the best possible devboard. I hope to make two versions, so that incase I mess something up on the first one, the second will be absolutely perfect, at least if the budget will allow.
+
+Seeing as I think I can make this an advanced project, with the availible $350, I sure can include GPS and all of that stuff, though that comes to arround $70 per board, and holy moly is that a lot. 🤑 Anyways, I am considering sourcing some of the components and then soldering them my self, though getting footprints and stuff to work properly and the risk that I mess up might make the few dollars I save not worth it.
+
+**HOURS COMPLETED: 1.5 (*TOTAL:26.5*)**
+
+## Day 13: USB splitter?
+
+You know what would be really cool? Making this breadboard also have a USB splitter so that anyone can program as many boards as they need, all at once. I would also love to use the inbuilt batteries to power the USB ports, so that it can also be used to charge a phone that is providing it with data. I am thinking of using the FE1.1S as I saw someone else using it in the slack.
+
+![Terminus-HE11SSS0P28](https://github.com/user-attachments/assets/1152c7c6-594e-4ce1-8ec0-b6321c880a6a)
+
+**HOURS COMPLETED: 0.5 (*TOTAL:27*)**
