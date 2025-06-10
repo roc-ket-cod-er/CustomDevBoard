@@ -187,3 +187,21 @@ I really want the cellular data stuff, but even no one in the slack could help
 Also, after way to much effort, I found out how to do blind vias, buried vias. I also learned how to make the board have slightly curved edges so it isn't so sharp :)
 
 **HOURS COMPLETED: 0.5 (*TOTAL:27.5*)**
+
+## Day 14: USB-C (June 10th)
+
+Ok so I decided today that I am actually going to work on my devboard. So, naturally, I followed the official documentation. I started chapter 2.2, and realized that I wanted USB-C. I though it would be pretty cool, and literally everyone uses it these days so it would be very accessible.
+
+But for some stupid reason, it is so hard to implement. In my previous board, I used micro-USB and it was actually so many times easier. But, for USB-C, you need those weird resistors, apparently you should check some pin that signals overload, and to top it all off, there are 3 main different types of USB-C.
+
+![2023081810452061](https://github.com/user-attachments/assets/ec4592e9-7b26-4f21-9390-b9a1413b7329)
+
+I originally was about to use the 6-pin variant, when I realized that it was for power delivery only. The worst of this all was the fact that ChatGPT started halucinating so badly that I couldn't spot a single true thing it said. I naturally lost trust in it, and getting work done without it was so hard. (Not to mention ChatGPT was overloaded for half the day)
+
+Here is what my schematic is sort of looking like as of now. The right side is the USB_C for the RP-2350B, I will likely mirror this for the ESP32. You know what? They really should make it easier to figure this stuff out. It should not take 3 hours for the USB-C alone :(
+
+![image](https://github.com/user-attachments/assets/bd10160c-986f-40e3-b9a9-fdca5c496e3d)
+
+I also worked on some general routing
+
+**HOURS COMPLETED: 4.5 (*TOTAL:32*)**
