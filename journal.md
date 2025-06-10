@@ -20,6 +20,7 @@ This would have some 48 GPIO, which should be ample for any maker. As mentioned 
 10. USB-A / USB-C output ports (for phone-charging, etc.)
 11. D2 - A MicroSD card reader
 12. D3 - A high current H-Bridge
+
 And hopefully more to come, though I don't really know
 
 Anyways, after getting my goal sort of set. I decided to get ChatGPT to help with some more brainstorming, as I was pretty uncertain about the programmablity, as I would love to have a high-performance board that anyone could use easily.
@@ -179,10 +180,10 @@ You know what would be really cool? Making this breadboard also have a USB split
 
 **HOURS COMPLETED: 0.5 (*TOTAL:27*)**
 
-## Day 14: Please?
+## Day 14: Please? (June 9)
 
 I really want the cellular data stuff, but even no one in the slack could help
 
 Also, after way to much effort, I found out how to do blind vias, buried vias. I also learned how to make the board have slightly curved edges so it isn't so sharp :)
 
-**HOURS COMPLETED: 0.5 (*TOTAL:27*)**
+**HOURS COMPLETED: 0.5 (*TOTAL:27.5*)**
