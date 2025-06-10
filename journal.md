@@ -178,3 +178,11 @@ You know what would be really cool? Making this breadboard also have a USB split
 ![Terminus-HE11SSS0P28](https://github.com/user-attachments/assets/1152c7c6-594e-4ce1-8ec0-b6321c880a6a)
 
 **HOURS COMPLETED: 0.5 (*TOTAL:27*)**
+
+## Day 14: Please?
+
+I really want the cellular data stuff, but even no one in the slack could help
+
+Also, after way to much effort, I found out how to do blind vias, buried vias. I also learned how to make the board have slightly curved edges so it isn't so sharp :)
+
+**HOURS COMPLETED: 0.5 (*TOTAL:27*)**
