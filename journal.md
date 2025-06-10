@@ -204,4 +204,9 @@ Here is what my schematic is sort of looking like as of now. The right side is t
 
 I also worked on some general routing
 
+I think the coolest routing so far is this one:
+
+![image](https://github.com/user-attachments/assets/1e2254b5-3268-44ec-bb2a-269eeac2f2a0)
+
+
 **HOURS COMPLETED: 4.5 (*TOTAL:32*)**
