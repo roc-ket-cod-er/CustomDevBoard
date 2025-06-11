@@ -209,4 +209,9 @@ I think the coolest routing so far is this one:
 ![image](https://github.com/user-attachments/assets/1e2254b5-3268-44ec-bb2a-269eeac2f2a0)
 
 
-**HOURS COMPLETED: 4.5 (*TOTAL:32*)**
+Ok, so I started doing the real desining, and oh my goodness, I don't have nearly the board space I need. Even though the board is going to be some 100mm x 100mm, the battery holders alon take up a quarter of the space. I need. Not to mention, the first version of the board took up almost that much space, and V2 is going to have soooo many more components. The ESP-32 alone takes up so much space, I am starting to feel that I might need to find a way to have components on both sides. I am thinking of ordering the battery cases independantly and then soldering them on to the back side, and that alone should make it so that I have enough space, but then I have to pay shipping on that too, and these boards are already coming to a rediculous amount. I wanted it to be $150 for the 5, but now seeing as that is next to impossible, I am targeting $250 for the standard 5 now. The one thing that I do have on my side is that I can now pack components super close to each other, and use vias in pad. This, combined with either a 4-Layer or 6-Layer PCB shoould make it possible. Only time and a big headache will tell. (BTW, I am not nearly done diagraming, I though I would take a break and work on some actuall PCB design, as it would be a nice break. I have worked a rediculous amount today).
+
+![image](https://github.com/user-attachments/assets/c4e85da6-7559-45c9-80e4-862a66ebdc24)
+
+
+**HOURS COMPLETED: 6 (*TOTAL:33.5*)**
