@@ -215,3 +215,14 @@ Ok, so I started doing the real desining, and oh my goodness, I don't have nearl
 
 
 **HOURS COMPLETED: 6 (*TOTAL:33.5*)**
+
+## Day 15: A big problem (June 12)
+
+So today I realized a basically fatal flaw on a V1 board. Basically, the MOSFET I was going to use to prevent backfeeding on the USB port doesn't seem to really work, and I can't use a diode for this either. Like this was a really big problem, and after a good 2 hours thinking about it, I have 2 sollutions
+
+1. Make it so that you can only use one power source at the same time
+That would mean that one switch would control it: either USB or Batteries
+2. Have differenet buck converters
+Another thing I could do was just seperate the converters they use, so that they don't conflict, or maybe lower the battery voltage down to 5V, which is safe for the USB
+
+**HOURS COMPLETED: 2.5 (*TOTAL:36*)**
