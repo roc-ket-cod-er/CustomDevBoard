@@ -226,3 +226,21 @@ That would mean that one switch would control it: either USB or Batteries
 Another thing I could do was just seperate the converters they use, so that they don't conflict, or maybe lower the battery voltage down to 5V, which is safe for the USB
 
 **HOURS COMPLETED: 2.5 (*TOTAL:36*)**
+
+## Day 16: Flash (June 13th)
+
+Today I just finished the flash
+
+![image](https://github.com/user-attachments/assets/c134b5c6-a145-4ffe-abbb-2803a39d3d19)
+
+![image](https://github.com/user-attachments/assets/4b7e329f-8ab9-4297-89b3-f6a80e926ec6)
+
+
+I think it looks pretty fire, but I think I could have squeezed it closer to the USB-C. I could have saved a bunch of space :(
+
+As a side note, I also drew the diagram of the decoupling capacitors, and renamed everything so that it wouldn't be so hard in the future
+
+![image](https://github.com/user-attachments/assets/bf096e9f-2c01-4103-8c95-b9eb4c4dcf3a)
+
+
+**HOURS COMPLETED: 2 (*TOTAL: 28*)** - - - (I rounded up today because I rounded down last time)
