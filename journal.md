@@ -240,6 +240,12 @@ I think it looks pretty fire, but I think I could have squeezed it closer to the
 
 As a side note, I also drew the diagram of the decoupling capacitors, and renamed everything so that it wouldn't be so hard in the future
 
+## Day 16: (June 14 & 15)
+
+Just did some general research, and finding the right components for such niche applications is just soooo hard. Like i wanted to add and xt90 for my board as an easy way to access the batteries, but its just a pain :(
+
+**HOURS COMPLETED: 1.5 (*TOTAL:37.5*)**
+
 ![image](https://github.com/user-attachments/assets/bf096e9f-2c01-4103-8c95-b9eb4c4dcf3a)
 
 
