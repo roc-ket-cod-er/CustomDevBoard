@@ -213,8 +213,8 @@ Ok, so I started doing the real desining, and oh my goodness, I don't have nearl
 
 ![image](https://github.com/user-attachments/assets/c4e85da6-7559-45c9-80e4-862a66ebdc24)
 
-
 **HOURS COMPLETED: 6 (*TOTAL:33.5*)**
+
 
 ## Day 15: A big problem (June 12)
 
@@ -226,6 +226,7 @@ That would mean that one switch would control it: either USB or Batteries
 Another thing I could do was just seperate the converters they use, so that they don't conflict, or maybe lower the battery voltage down to 5V, which is safe for the USB
 
 **HOURS COMPLETED: 2.5 (*TOTAL:36*)**
+
 
 ## Day 16: Flash (June 13th)
 
@@ -240,13 +241,20 @@ I think it looks pretty fire, but I think I could have squeezed it closer to the
 
 As a side note, I also drew the diagram of the decoupling capacitors, and renamed everything so that it wouldn't be so hard in the future
 
-## Day 16: (June 14 & 15)
+![image](https://github.com/user-attachments/assets/bf096e9f-2c01-4103-8c95-b9eb4c4dcf3a)
+
+**HOURS COMPLETED: 2 (*TOTAL: 38*)**
+
+
+## Day 17: (June 14 & 15)
 
 Just did some general research, and finding the right components for such niche applications is just soooo hard. Like i wanted to add and xt90 for my board as an easy way to access the batteries, but its just a pain :(
 
-**HOURS COMPLETED: 1.5 (*TOTAL:37.5*)**
-
-![image](https://github.com/user-attachments/assets/bf096e9f-2c01-4103-8c95-b9eb4c4dcf3a)
+**HOURS COMPLETED: 1.5 (*TOTAL:39.5*)**
 
 
-**HOURS COMPLETED: 2 (*TOTAL: 28*)** - - - (I rounded up today because I rounded down last time)
+## Day 17.1 (June 16)
+
+Just spent a bit of time looking for new parts. I then spent some time thinking about how to best integrate the batteries. This project is starting to look harder and harder the more work I put into it. Not to mention that I should be starting to finish it by now and still haven't finished the basics. Ima lock in right after I finish my homework :)
+
+**HOURS COMPLETED: 0.5 (*TOTAL:40*)**
