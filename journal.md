@@ -273,4 +273,6 @@ So far, the most annoying thing I did today was fix up to border outline. The ES
 
 The thing just is, it is so ridiculously hard, or rather confusing, to get it to work. You need to draw the polygon, right click it, and then click add... > fillets. The worst part of it all was that there is next to no documentation :(
 
+I also looked at a bit of stuff for getting the 3D model of the pcb, and about the crystal and battery placement, though the crystal is for tommorow.
+
 **HOURS COMPLETED: 3 (*TOTAL:43*)**
