@@ -258,3 +258,19 @@ Just did some general research, and finding the right components for such niche 
 Just spent a bit of time looking for new parts. I then spent some time thinking about how to best integrate the batteries. This project is starting to look harder and harder the more work I put into it. Not to mention that I should be starting to finish it by now and still haven't finished the basics. Ima lock in right after I finish my homework :)
 
 **HOURS COMPLETED: 0.5 (*TOTAL:40*)**
+
+## Day 18 (June 20th): Main Power
+
+So finally my summatives and exams and everything finished, and as the first day of summer break, I really got COOKING!!!
+
+As of now, the main part is looking like this, with only the batteries mounted on the back-side. I know this is going to increase a lot of cost, but it is a nessasary evil. I will just solder on the battery things my self, after ordering for LCSC.
+
+![image](https://github.com/user-attachments/assets/af6449eb-1f8e-4304-b804-cf4e40127a67)
+
+So far, the most annoying thing I did today was fix up to border outline. The ESP32 needs to be a bit off of the board, and the best way to do so is on the corner. I get maximal pin access, while giving the antenna maximum clearance.
+
+![image](https://github.com/user-attachments/assets/137661c4-4c82-4094-99d2-79706b78dc52)
+
+The thing just is, it is so ridiculously hard, or rather confusing, to get it to work. You need to draw the polygon, right click it, and then click add... > fillets. The worst part of it all was that there is next to no documentation :(
+
+**HOURS COMPLETED: 3 (*TOTAL:43*)**
