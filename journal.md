@@ -276,3 +276,20 @@ The thing just is, it is so ridiculously hard, or rather confusing, to get it to
 I also looked at a bit of stuff for getting the 3D model of the pcb, and about the crystal and battery placement, though the crystal is for tommorow.
 
 **HOURS COMPLETED: 3 (*TOTAL:43*)**
+
+## Day 19 (June 21): Long day - Lots of work.
+
+Ok so yah today, again, I got so much work done. But first, doesn't this look so fire (I got the main part of the RP2350 done):
+
+![image](https://github.com/user-attachments/assets/d957cda0-e6ad-442b-8b95-da0e80a1f256)![image](https://github.com/user-attachments/assets/578f5a97-a3df-4a21-aa7f-1318afdc876a)
+
+
+The density is so crazy. I guess lots more is possible with 4-layers
+
+Anyways, got most of the capacitors in the right spot, finished the crystal:
+
+![image](https://github.com/user-attachments/assets/a75d4d72-d227-46de-a815-83b5687d591c)
+
+And I did some of the ESP32 stuff. All in all a very productive (though still a bit slow) day.
+
+**HOURS COMPLETED: 2.5 (*TOTAL:45.5*)**
