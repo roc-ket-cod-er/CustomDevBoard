@@ -293,3 +293,15 @@ Anyways, got most of the capacitors in the right spot, finished the crystal:
 And I did some of the ESP32 stuff. All in all a very productive (though still a bit slow) day.
 
 **HOURS COMPLETED: 2.5 (*TOTAL:45.5*)**
+
+## Day 20 (June 22nd): Basics
+
+Today, I finished all the basics stuff. The ESP32, although lacking documentation, was sooo many times faster to complete. Here is a picture of the top part of the board with all the components (except batteries, on back side)
+
+![image](https://github.com/user-attachments/assets/63f106b0-6255-42a8-8964-ca990730622b)
+
+The bad news is, however, I'm already at $84 + ~$20 shipping + 18% VAT = $122 already!!! uhhhhhh I guess I can't fit it under $150 :(
+
+GPS alone will be atleast $30 btw. I knew this would happen, but conformation is just sad. Not to mention I might need a 6-Layer PCB and/or ENIG (as my components are delicate. last time with HASL they where barely functioning, one board almost desoldered) and this will drive costs through the roof 😿
+
+**HOURS COMPLETED 2 (*TOTAL: 47.5*)**
