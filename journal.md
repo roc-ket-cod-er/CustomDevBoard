@@ -310,3 +310,20 @@ I also just labeled EVERY GPIO:
 
 
 **HOURS COMPLETED 3 (*TOTAL: 48.5*)**
+
+## Day 21 (June 23rd): Realization
+
+So today, I got to work routing some wires, mainly on the ESP32 side. I had done a lot of thinking about where to put the headers, and starting wiring them up. But then I hit a brick wall
+
+![image](https://github.com/user-attachments/assets/d2327552-2e40-4371-bb02-25ec8fbae5f9)
+
+If you see the image, I'll have to wire throught the battery mount hole, or place vias. Not a big deal. But, I then thought that I should put down all the through-hole components, the blocking ones, the most important and unmoveable ones down first.
+
+Enter: the main display:
+
+![image](https://github.com/user-attachments/assets/c2c383c8-316e-441a-bdad-89b83fa76640)
+
+
+Now this is a big chunky thing which must not be moved around, and idealy would fit in between the batteries. But when I went to move the batteries, they always collided with another part. So, after way too much thought, I have decided to rewire most of the stuff :(  At least I hadn't done anything too complicated so far.
+
+**HOURS COMPLETED: 4 (*TOTAL: 52.5*)**
