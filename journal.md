@@ -304,4 +304,8 @@ The bad news is, however, I'm already at $84 + ~$20 shipping + 18% VAT = $122 al
 
 GPS alone will be atleast $30 btw. I knew this would happen, but conformation is just sad. Not to mention I might need a 6-Layer PCB and/or ENIG (as my components are delicate. last time with HASL they where barely functioning, one board almost desoldered) and this will drive costs through the roof 😿
 
-**HOURS COMPLETED 2 (*TOTAL: 47.5*)**
+I also just labeled EVERY GPIO on the RP2350B:
+
+![image](https://github.com/user-attachments/assets/5af3c19c-0bc1-4fb3-81f7-071fb43c97ad)
+
+**HOURS COMPLETED 3 (*TOTAL: 48.5*)**
