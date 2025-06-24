@@ -326,4 +326,11 @@ Enter: the main display:
 
 Now this is a big chunky thing which must not be moved around, and idealy would fit in between the batteries. But when I went to move the batteries, they always collided with another part. So, after way too much thought, I have decided to rewire most of the stuff :(  At least I hadn't done anything too complicated so far.
 
-**HOURS COMPLETED: 4 (*TOTAL: 52.5*)**
+Hence, the rewiring. Adjust the wires is really a big pain, not gonna lie. But hey, atleast it looks beutiful. I am probably going to have to move these wires to the bottom layer though :(
+
+![image](https://github.com/user-attachments/assets/f9186bba-f33a-4971-8d72-6e73918d021e)
+
+![image](https://github.com/user-attachments/assets/701f7d54-6842-420d-bc03-c5172bc464c8) 
+![image](https://github.com/user-attachments/assets/85e3b911-04ec-433d-a934-39a782abc03c)
+
+**HOURS COMPLETED: 5.5 (*TOTAL: 54*)**
