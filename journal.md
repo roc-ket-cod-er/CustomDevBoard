@@ -348,3 +348,20 @@ I also changed the layer of the ESP32's wiring to the bottom, as that way I will
 I also spent some time on the LCD, nothing too visible, but just double checking everything and stuff for it's SPI connection.
 
 **HOURS COMPLETED: 4 (*TOTAL:58*))
+
+## Day 23 (June 25th): More GPIO
+
+So today, after way too much time, I HAVE FINISHED THE GPIO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Here are the photos — I had to use three layers to route them all :(
+
+![image](https://github.com/user-attachments/assets/16fff5b8-c78c-4abb-9393-b23648398f87)| | | |
+![image](https://github.com/user-attachments/assets/a449a427-58e7-42ab-ac22-3434bcd3aa03)
+![image](https://github.com/user-attachments/assets/df443856-6fde-42b3-ba2e-097ed050c5ab)
+
+I probably have like a million vias as of now, but I have not had to another layer, so as of now, a 4-Layer PCB should work 🤞
+
+it looks so cool I decided to add even more images:
+
+![image](https://github.com/user-attachments/assets/2c6a1f7e-eca4-4db7-8b70-cbdf7a23c3fc)|![image](https://github.com/user-attachments/assets/5a9569ff-a287-4212-8fd4-b2ace614f922)
+
