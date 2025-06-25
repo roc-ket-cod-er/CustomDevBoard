@@ -334,3 +334,17 @@ Hence, the rewiring. Adjust the wires is really a big pain, not gonna lie. But h
 ![image](https://github.com/user-attachments/assets/85e3b911-04ec-433d-a934-39a782abc03c)
 
 **HOURS COMPLETED: 5.5 (*TOTAL: 54*)**
+
+## Day 22 (June 24th): GPIO
+
+Today, I just worked on routing the GPIO. I had to restart a few times, but it is epic how it looks right now.
+
+![image](https://github.com/user-attachments/assets/75178c3b-eb8a-4fff-8cf7-1f06a4b71a78)
+
+You just have bands of red, blue and green. Yes, three colors. I want to keep my ground plane solid, so I am only going to use the three for routing. If I need more (I probably will) I'll just use a six layer pcb. The advantage is that it will be way easier, and it comes with ENIG for free, so my boards won't be as likely to be messed up. (With HASL 1/5 of my boards basically didn't work)
+
+I also changed the layer of the ESP32's wiring to the bottom, as that way I will be able to SMT components on top of them.
+
+I also spent some time on the LCD, nothing too visible, but just double checking everything and stuff for it's SPI connection.
+
+**HOURS COMPLETED: 4 (*TOTAL:58*))
