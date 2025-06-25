@@ -367,4 +367,8 @@ it looks so cool I decided to add even more images:
 
 I'm also now working on wiring the ESP32 power and USB, and am wondering if I should add the capacitive touch sensors.
 
+After burning more time, and I finished the INA226 circuitry!!
+
+![image](https://github.com/user-attachments/assets/3eaccae8-665b-4411-988c-bca5d2d2eae7)
+
 **HOURS COMPLETED: 3.5 (*TOTAL:61.5*)**
