@@ -365,3 +365,6 @@ it looks so cool I decided to add even more images:
 
 ![image](https://github.com/user-attachments/assets/2c6a1f7e-eca4-4db7-8b70-cbdf7a23c3fc)|![image](https://github.com/user-attachments/assets/5a9569ff-a287-4212-8fd4-b2ace614f922)
 
+I'm also now working on wiring the ESP32 power and USB, and am wondering if I should add the capacitive touch sensors.
+
+**HOURS COMPLETED: 3.5 (*TOTAL:61.5*)**
