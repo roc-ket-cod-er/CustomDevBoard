@@ -410,4 +410,6 @@ FINALLY!!
 
 I am going to go work on the GPS. I think it is probably sensitive and will require everything else to revolve around it. First up, chosing a module. I know I talked about it before, but I am going to restart as there wasn't many good choices, and now that I have components from LCSC anyways, I have more options.
 
-**HOURS COMPLETED: 4.5 (*TOTAL: 67.5*)**
+Ok. there are 2 different types of GPS modules. Those with built in antennas and those without. I need to now figure out which to use. I am leaning towards those with built in ones, as they will be significantly easier, but also harder to find and more expensive. Let me go do some thinking.
+
+**HOURS COMPLETED: 5.5 (*TOTAL: 68.5*)**
