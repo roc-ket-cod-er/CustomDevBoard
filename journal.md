@@ -375,6 +375,6 @@ And, you know what? As a bonus, I even finished the ESP32 part!!!
 
 ![image](https://github.com/user-attachments/assets/5f840c00-9002-44d4-8dea-44769870207d)
 
-**MORE BONUSES:** I started he oled, added a switch for the INA, and um moved the battery!
+**MORE BONUSES:** I started an OLED, added a switch for the INA, and um moved the battery!
 
-**HOURS COMPLETED: 4 (*TOTAL:62*)**
+**HOURS COMPLETED: 5 (*TOTAL:63*)**
