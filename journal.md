@@ -367,7 +367,7 @@ it looks so cool I decided to add even more images:
 
 I'm also now working on wiring the ESP32 power and USB, and am wondering if I should add the capacitive touch sensors.
 
-After burning more time, and I finished the INA226 circuitry!!
+After burning more time, and I finished the main part of the INA226 circuitry!!
 
 ![image](https://github.com/user-attachments/assets/3eaccae8-665b-4411-988c-bca5d2d2eae7)
 
@@ -378,3 +378,36 @@ And, you know what? As a bonus, I even finished the ESP32 part!!!
 **MORE BONUSES:** I started an OLED, added a switch for the INA, and um moved the battery!
 
 **HOURS COMPLETED: 5 (*TOTAL:63*)**
+
+## Day 24 (June 26th): More GPIO
+
+Remember how I had said that I finished the GPIOs? well I had put them in the wrong way :(
+
+So after a redesign, I corrected it, but had to go onto the fourth layer :( I think I might have to use the 6 layer PCB :(
+
+![image](https://github.com/user-attachments/assets/8965be6b-5d10-4a56-ab06-8686a0c2a22b)
+![image](https://github.com/user-attachments/assets/6478372e-45d0-4cc7-b5cc-c89f8fde2c33)
+![image](https://github.com/user-attachments/assets/e898b3d7-9643-4a74-b32c-89e761b15ab8)
+![image](https://github.com/user-attachments/assets/52ab2978-d2b2-46fb-911b-ff6840e4259d)
+
+So well here are the pictures of the four layers.
+
+I then went on to designate a set of pins for the I2C connection, and complete the circuitry based upon it!
+
+![image](https://github.com/user-attachments/assets/90ee975e-15c8-4556-81ae-1f200a4d9c0c)
+
+As a side note, I am really wondering how people get their stuff done so fast. Just remodelling the GPIO took me a good 2+ hrs, and then this INA226 datalines stuff took me like another 1+ hr. The biggest reason I can think of is that my board is very dense, and that I am double and triple checking my work? Oh well. Just wanted to put my thoughts down.
+
+Oh yeah, I also moved the battery cases and stuff around so that there would be maximum clearance, and as the following picture suggests, every movement is an absolute pain.
+
+![image](https://github.com/user-attachments/assets/ad8e9b70-9c3b-4a33-9f80-86bcbbab7254)
+
+Just saying, its such a big pain to change even the smallest things. For example, I had hidden the 3.3V and GND nets, and when I show them, even though I have 2 layers with each (3.3V on Top and Inner 2) (GND on Inner 1 & Bottom) it is still a pain to get everything to work because of how dense the wires are around the headers.
+
+FINALLY!!
+
+![image](https://github.com/user-attachments/assets/e9ea6b73-743a-4c80-b07a-4d97f6e2fa44)
+
+I am going to go work on the GPS. I think it is probably sensitive and will require everything else to revolve around it. First up, chosing a module. I know I talked about it before, but I am going to restart as there wasn't many good choices, and now that I have components from LCSC anyways, I have more options.
+
+**HOURS COMPLETED: 4.5 (*TOTAL: 67.5*)**
