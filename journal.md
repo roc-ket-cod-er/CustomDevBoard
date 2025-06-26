@@ -371,4 +371,10 @@ After burning more time, and I finished the INA226 circuitry!!
 
 ![image](https://github.com/user-attachments/assets/3eaccae8-665b-4411-988c-bca5d2d2eae7)
 
-**HOURS COMPLETED: 3.5 (*TOTAL:61.5*)**
+And, you know what? As a bonus, I even finished the ESP32 part!!!
+
+![image](https://github.com/user-attachments/assets/5f840c00-9002-44d4-8dea-44769870207d)
+
+**MORE BONUSES:** I started he oled, added a switch for the INA, and um moved the battery!
+
+**HOURS COMPLETED: 4 (*TOTAL:62*)**
