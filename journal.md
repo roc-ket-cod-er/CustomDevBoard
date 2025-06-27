@@ -431,5 +431,10 @@ I don't have to go into tomorow in dispair!
 
 ![image](https://github.com/user-attachments/assets/61769293-c7c7-45dc-abe2-2259c684c9f1)
 
+I got a bit side tracked and fixed a small problem with the INA, but I came back to the GPS pretty fast. I am now facing a dilemma. Which GPIOs should I use for the GPS. On the one hand, I can use official UART pins, but then that leaves the user with none availible. Or, I can use any random pins. By doing this, I will have access to a high-speed UART for whatever I want to do, and well, yeah. I am thinking as the GPS module is pretty expensive, I might as well use the official pins, but that leaves no UART on either the RP2350B or the ESP32 open. What to do.
+
+*A bit later
+
+I think I have decided. I am going to use the official pins. More specifically GPIO 12 & 13. They are pretty easy to use, not in the highest density part of the board, and are the official UART0 TX and RX pins. I just feel that the risk is not worth the reward. I could maybe test UART on not official pins, but if I experience data loss, it will be really hard to debug :(
 
 **HOURS COMPLETED 2 *(TOTAL:70.5*)**
