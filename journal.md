@@ -413,3 +413,13 @@ I am going to go work on the GPS. I think it is probably sensitive and will requ
 Ok. there are 2 different types of GPS modules. Those with built in antennas and those without. I need to now figure out which to use. I am leaning towards those with built in ones, as they will be significantly easier, but also harder to find and more expensive. Let me go do some thinking.
 
 **HOURS COMPLETED: 5.5 (*TOTAL: 68.5*)**
+
+## Day 25: June 27: GPS
+
+I never knew that GPS is soooo haarrrrrrrrrddd.
+
+Bro I've literally spend like 2 hours looking for a suitable GPS module, and I can't find a single one. After 2 hours. TWO!!
+
+Well I wish I had something to add but thats it. :( I couldn't find a half decent GPS chip. I might need to use a premanufactured one, but that would just be sad :(
+
+**HOURS COMPLETED 2 *(TOTAL:70.5*)**
