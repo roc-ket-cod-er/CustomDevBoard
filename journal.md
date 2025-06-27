@@ -422,4 +422,14 @@ Bro I've literally spend like 2 hours looking for a suitable GPS module, and I c
 
 Well I wish I had something to add but thats it. :( I couldn't find a half decent GPS chip. I might need to use a premanufactured one, but that would just be sad :(
 
+
+I HAVE GOOD NEWS!!!!!!!!!!!!!!!!!!!!
+
+I found a board!!! It looks like the L80RE-M37 should work, and its less then $5 per GPS module!!!!!!
+
+I don't have to go into tomorow in dispair!
+
+![image](https://github.com/user-attachments/assets/61769293-c7c7-45dc-abe2-2259c684c9f1)
+
+
 **HOURS COMPLETED 2 *(TOTAL:70.5*)**
