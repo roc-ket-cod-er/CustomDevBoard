@@ -437,4 +437,18 @@ I got a bit side tracked and fixed a small problem with the INA, but I came back
 
 I think I have decided. I am going to use the official pins. More specifically GPIO 12 & 13. They are pretty easy to use, not in the highest density part of the board, and are the official UART0 TX and RX pins. I just feel that the risk is not worth the reward. I could maybe test UART on not official pins, but if I experience data loss, it will be really hard to debug :(
 
-**HOURS COMPLETED 2 *(TOTAL:70.5*)**
+Ok! I finished the GPS part, but I have to say, it wasts a whole ton of space.
+
+![image](https://github.com/user-attachments/assets/8b75ff12-eb94-4f45-a5b6-144eba2bd8aa)
+
+^^Where the red center box is, you can't put any components, and ideally all high-frequency stuff needs to stay away, such as wifi, the microcontrollers, the LCD, and the OLED. the OLED is still a touch too close for my liking, but not much I can do. I could move it away, but thats a lot of work. I might just do it.
+
+You know what? I just did it. I moved the OLED so that the GPS can work with full ability. Apparently, its so strong it can work indoors! Only time will tell...
+
+Threre is still lots of space for more components
+
+![image](https://github.com/user-attachments/assets/1c6cb529-0fca-4796-bae8-4010c87b2531)
+
+Though the inner layers really are sort of filling up. Even then, there is still lots of space. I am thinking that next I will work on the MicroSD card slot as it'll probably also be sensitive, especially with that GPS module there. The IMU will also need to be not around some components probably, so I will make sure to also do *it* afterwards. Then, space (almost definitely) permitting, I'll add the battery charging circuit, the 5V line, the H-Bridge, and um well I'll see.
+
+**HOURS COMPLETED 3.5 *(TOTAL:72*)**
