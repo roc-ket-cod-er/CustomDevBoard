@@ -452,3 +452,9 @@ Threre is still lots of space for more components
 Though the inner layers really are sort of filling up. Even then, there is still lots of space. I am thinking that next I will work on the MicroSD card slot as it'll probably also be sensitive, especially with that GPS module there. The IMU will also need to be not around some components probably, so I will make sure to also do *it* afterwards. Then, space (almost definitely) permitting, I'll add the battery charging circuit, the 5V line, the H-Bridge, and um well I'll see.
 
 **HOURS COMPLETED 3.5 *(TOTAL:72*)**
+
+## Day 26: June 28
+
+I did some reaserach on the IMU that I am going to use, and, well, I have to say that it is going to be a pain. I couldn't find many that were supported by JLCPCB's manufacturing process, and the one that was, well, that ran on 1.8V. So, basically, I am going to have to at a 1.8V line and a voltage shifter. Sadness. I started reading the datasheet too.
+
+**HOURS COMPLTED 1 (*TOTAL:73*)**
