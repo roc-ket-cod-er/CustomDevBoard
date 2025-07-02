@@ -458,3 +458,13 @@ Though the inner layers really are sort of filling up. Even then, there is still
 I did some reaserach on the IMU that I am going to use, and, well, I have to say that it is going to be a pain. I couldn't find many that were supported by JLCPCB's manufacturing process, and the one that was, well, that ran on 1.8V. So, basically, I am going to have to at a 1.8V line and a voltage shifter. Sadness. I started reading the datasheet too.
 
 **HOURS COMPLTED 1 (*TOTAL:73*)**
+
+## Day 27: July 1st: CANADA DAY !!!
+
+On the day of our contry, I started with the circutry to convert the power stuff at 1.8V to the 3.3V.
+
+I decided on a power supply (SSP6206-18NR) and worked on learning how the voltage level changer works.
+
+**HOURS COMPLETED: 2 (*TOTAL:75*)**
+
+## Day 28: July 2nd
