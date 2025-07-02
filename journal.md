@@ -467,4 +467,16 @@ I decided on a power supply (SSP6206-18NR) and worked on learning how the voltag
 
 **HOURS COMPLETED: 2 (*TOTAL:75*)**
 
-## Day 28: July 2nd
+## Day 28 (2nd July): IMU!
+
+I finally finished wiring up all the IMU stuff!
+
+![image](https://github.com/user-attachments/assets/39c7c519-c87d-40b9-aed4-8dc7445de9c9)
+
+The three pin components on the left are the MOSFETS used for logic level conversion, and on the bottom right is the power supply. Its so crazy how dense all these components are.
+
+I am now going to go work on the auto-reset stuff. Also, it just takes so much time because every change just makes it so that I need to redo so many things :(
+
+I also tryed making the INA circuit better, but accidentally made it worse so I had to undo it all.
+
+HOURS COMPLETED: 2.5 (*TOTAL:77*)**
