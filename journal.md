@@ -479,4 +479,24 @@ I am now going to go work on the auto-reset stuff. Also, it just takes so much t
 
 I also tryed making the INA circuit better, but accidentally made it worse so I had to undo it all.
 
-HOURS COMPLETED: 2.5 (*TOTAL:77*)**
+HOURS COMPLETED: 2.5 (*TOTAL:77.5*)**
+
+## Day 29 (3/7): SD Card
+
+Today, I worked on the SD CARD!!!!
+
+![image](https://github.com/user-attachments/assets/6aab8c85-9cfc-452d-86ca-872c3be74631)
+
+Just finding the right spot to put it took me like an hour. I settled on curving the pcb border around the outside so that it is as easy as possible to use the card. Just one problem:
+
+![image](https://github.com/user-attachments/assets/6fb6751f-976a-42b3-8ecd-843de2c04ba5)
+
+The datalines need to go from one side of the board to the other. They are going to end up being a massive block.
+
+I also worked on wiring the card, but I am very uncertain wether its going to work. Here is the schematic I settled on after consulting the Adafruit datasheets and stuff.
+
+![image](https://github.com/user-attachments/assets/a6cab297-7f4f-4d77-819b-dfa5589b65b6)
+
+I really hope this is going to be okay. I am going to go send this to the hardware slack and see if they think its going to work.
+
+HOURS COMPLETED: 2.5 (*TOTAL 80*)
