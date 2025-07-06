@@ -481,7 +481,7 @@ I also tryed making the INA circuit better, but accidentally made it worse so I 
 
 HOURS COMPLETED: 2.5 (*TOTAL:77.5*)**
 
-## Day 29 (3/7): SD Card
+## Day 29 (JU3): SD Card
 
 Today, I worked on the SD CARD!!!!
 
@@ -500,3 +500,21 @@ I also worked on wiring the card, but I am very uncertain wether its going to wo
 I really hope this is going to be okay. I am going to go send this to the hardware slack and see if they think its going to work.
 
 HOURS COMPLETED: 2.5 (*TOTAL 80*)
+
+## Day 30 (JU4): POWER!
+
+Today (or rather yesterday as I am post-event journaling) I worked on **POWER!**
+
+I wanted to use many more 3.3V LDOs, however I can't do that because they don't share their load effectively. So I am going to have to work on a buck converter setup. They are significantly more efficent, and thus you can use all the components. I think I will go with the LMR33630ADDAR connected to the battery and the normal one connected to the USB. (Sorry for the lack of detail I don't really remember what I really did yesterday)
+
+HOURS: 1.5 (*TOTAL:81.5*)
+
+## Day 31 (JU5): Datasheets
+
+So, I noticed that the official RP2350 datasheet suggested the NCP1117, so I will check the datasheet.
+
+You know what? This stuff just seems too hard. I might continue to do some research, or hope for the best.
+
+Ok well in the meantime I double checked the datasheet of the ESP32 and added more decoupling capacitors and stuff
+
+HOURS: 2 (TOTAL:83.5)
