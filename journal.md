@@ -518,3 +518,17 @@ You know what? This stuff just seems too hard. I might continue to do some resea
 Ok well in the meantime I double checked the datasheet of the ESP32 and added more decoupling capacitors and stuff
 
 HOURS: 2 (TOTAL:83.5)
+
+## Day 32 (JU6): ESP32.
+
+You remember how I said I finished the ESP32 part? Well I redid it to include all the auto-reset firmware and stuff.
+
+![image](https://github.com/user-attachments/assets/caa6584b-1345-4a75-8a21-68366c411316)
+
+That took a lot of time, but it was totally worth it.
+
+For context, look at the previous image:
+
+![image](https://github.com/user-attachments/assets/893f9573-6654-4332-baa0-4292d7b4c1c4)
+
+You can see that it looks so much better, it has more components crammed in, and is just all-round cool. Also, I am now using the official circuitry, so it is more likely to work.
