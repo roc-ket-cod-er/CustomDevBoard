@@ -532,3 +532,15 @@ For context, look at the previous image:
 ![image](https://github.com/user-attachments/assets/893f9573-6654-4332-baa0-4292d7b4c1c4)
 
 You can see that it looks so much better, it has more components crammed in, and is just all-round cool. Also, I am now using the official circuitry, so it is more likely to work.
+
+HOURS: 3 (TOTAL:86.5)
+
+## Day 33 (JU7): Double Check
+
+Today I took the time to double check as much of it as I could, with the help of chatgpt.
+
+I am a bit worried about the USB lines, however I have heard that they are very forgiving, so I should probably be okay.
+
+Well not much to write as all I did was double checking...
+
+HOURS: 1.5 (TOTAL: 88)
