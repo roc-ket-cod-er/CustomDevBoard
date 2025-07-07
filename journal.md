@@ -543,4 +543,6 @@ I am a bit worried about the USB lines, however I have heard that they are very 
 
 Well not much to write as all I did was double checking...
 
+Oh, and also, I am probably going to finish battery charging next time.
+
 HOURS: 1.5 (TOTAL: 88)
