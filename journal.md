@@ -546,3 +546,23 @@ Well not much to write as all I did was double checking...
 Oh, and also, I am probably going to finish battery charging next time.
 
 HOURS: 1.5 (TOTAL: 88)
+
+## Day 34 (JU8): 3D
+
+Just look at all of these images: they look soo good!!!!
+
+![image](https://github.com/user-attachments/assets/ef96d7a7-d228-48a4-a530-e98cbe265d65)
+
+![image](https://github.com/user-attachments/assets/556c4164-7122-43c4-9f30-7e2329e7d6bb)
+
+![image](https://github.com/user-attachments/assets/a3dc1a1d-f252-4bae-bdb6-eaa530642592)
+
+Anyways, I'm going to go work on the battery charger.
+
+I have so much space. I don't know what to do with it:
+
+![image](https://github.com/user-attachments/assets/31e533c8-ddc9-41c0-827f-5cfa528e41a9)
+
+The problem is, however, that i can't have throughhole components where the green silkscreen (for the batteries) is:
+
+![image](https://github.com/user-attachments/assets/bd657098-3189-4d5c-b9e2-46df909eb6c0)
