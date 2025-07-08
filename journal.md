@@ -582,3 +582,23 @@ I also added a 0.02 ohm shunt resistor for the INA so that the user can use the 
 I also took a look at some higher current LDOs so that I could power everything without super heating the board.
 
 ### YESSIR!
+
+Ok. I did it. I got this stuff to COOOK!!!!
+
+So, I got some LDO's from the battery, so you can have either USB, Battery, Or both connected at the same time. This way, if you suddenly disconnect one, the other can take over and operation never halts. I am still experiencing the current problem, as the LDO will probably overheat if everything is running togeather, so I am using 2 LDOs, one for the ESP, one for everything else. I might chose to add a buck converter later on, though it should be ok as it is.
+
+In terms of battery charging, I am going to use a dedicated USB-C port for it. This port will be set to the highest voltage USB-C can provide, 20V, and then will use a buck converter to reduce the voltage to 12V. Then, the charging circuit will use that, and all will be well. Now, I have to make the actual charging circuit...
+
+One small problem, the LDO I am using for the 12V line can only output 1.5ish amps, so I am going to have to find a way to limit the TP5100. But as a plus, I now have a 3.3V, 5V, 12V, and 20V line when USB is active. (without USB-C I only have the 3.3V line, with a 5V line to maybe come)
+
+![image](https://github.com/user-attachments/assets/9a4280f4-dbcb-4c1e-a085-b86a009d4b37)
+
+![image](https://github.com/user-attachments/assets/9fa966c2-d9ba-4a7c-91c0-01da8076d638)
+
+![image](https://github.com/user-attachments/assets/2878c0a3-37e7-43a4-9514-93f0d39c12d1)
+
+![image](https://github.com/user-attachments/assets/2c65bbec-616f-4c2e-bccd-11e055ae8041)
+
+I might finish the TP5100 and then work on the 3D case after...
+
+HOURS: 6 (TOTAL: 94)
