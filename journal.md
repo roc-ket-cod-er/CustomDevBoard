@@ -566,3 +566,19 @@ I have so much space. I don't know what to do with it:
 The problem is, however, that i can't have throughhole components where the green silkscreen (for the batteries) is:
 
 ![image](https://github.com/user-attachments/assets/bd657098-3189-4d5c-b9e2-46df909eb6c0)
+
+Ok so I decided I am going to take a look at some cellular stuff, and it all seems way too expensive, so I am not going to do it. I am putting off doing the battery charging because it will be a pain. I will need a 12V supply, and with that I will have to then feed into the charger and the charger will also be painful to work on :(
+
+**SOME TIME LATER**
+
+Oh I really procrastinated. I double checked my clearances, and decided I can put THT components where the batterycases are, however to do so, I had to move the entire GPS assembly around, which led to some rewiring on the IMU.
+
+![image](https://github.com/user-attachments/assets/229a34dc-10aa-4960-a115-94bb3617f9f8)
+
+I also added a 0.02 ohm shunt resistor for the INA so that the user can use the INA's current measuring feature.
+
+![image](https://github.com/user-attachments/assets/b3e9b4d1-67f3-4d7d-b2f4-c4d723e68926)
+
+I also took a look at some higher current LDOs so that I could power everything without super heating the board.
+
+### YESSIR!
