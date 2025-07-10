@@ -633,3 +633,28 @@ Well I'm a log off. I worked way too late on the capacitor stuff, and will proba
 
 ### HOURS COMPLETED: 7 (TOTAL:101)
 
+## Day 36 (JU10) Double-Check & User
+
+Today I just worked upon adding some user features, leds, surge protectors, and double checking everything.
+
+First up, surges.
+
+I spent some half an hour studying how they work, and then wiring them up. It was pretty simple of a job for wiring, however, chosing the right one took some time
+
+In terms of LEDs, they also took way too much time, as on my first board the LEDs were way too bright. I did all the math, double checking as I went, and got the LEDs wired up. I have one for the ESP, one for the RP2350B, one at the 20V usb, and one at the SD-card, and two for charge indication.
+
+I also added some user features: a user LED (totaling to 6 LEDs), a user button, and a user switch. They will all be on the back side, but I guess thats ok.
+
+And thats about it. I'll leave you with some amazing images:
+
+<img width="1014" height="622" alt="image" src="https://github.com/user-attachments/assets/1bd14cf5-afcf-4b0e-99d9-421d077a9705" />
+
+<img width="1088" height="849" alt="image" src="https://github.com/user-attachments/assets/ff3dfe07-6578-4b91-ad2d-f6a18329ba63" />
+
+<img width="880" height="824" alt="image" src="https://github.com/user-attachments/assets/f1f4d298-ee3c-46ef-a9ed-4eb7d8c4c76e" />
+
+<img width="1035" height="895" alt="image" src="https://github.com/user-attachments/assets/0c1dee62-e7d3-4475-8082-cb28c125aace" />
+
+<img width="444" height="897" alt="image" src="https://github.com/user-attachments/assets/2a0e96e3-4cbe-4cad-8e8a-c22682bb835c" />
+
+### Hours: 3.5 (TOTAL:14.5)
