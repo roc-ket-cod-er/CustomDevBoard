@@ -602,3 +602,34 @@ One small problem, the LDO I am using for the 12V line can only output 1.5ish am
 I might finish the TP5100 and then work on the 3D case after...
 
 HOURS: 6 (TOTAL: 94)
+
+## Day 35 (JU9) BATTERY CHARGING vvvv
+
+So I was worried about the over-heating and stuff, so I used the direct connect for the PCB copper layers, however I just Goolged some downsides, and that led me into a rabbit hole of this stuff, but I think I will be ok, though soldering quality may be affected. I really should get ENIG to counteract, but its so expensive :( (1hr)
+
+Time to go copy the TP5100 example schematic ...
+
+Ok. It was way more work then I was thinking to get all the schematic stuff working, but hey, I think I did it! Below is the schematic, the bare bones schematic. I chose not to include some of the features, etc, and limit the charge current to 1 amp as it was easier to find the appropriate resistors and stuff. The problem is, this thing requires so many unique components that my bill probably went +$30. That is sad, but a something that adds great value to the board...
+
+![image](https://github.com/user-attachments/assets/223f089c-6756-41d8-8f42-d8c091857b12)
+
+OH MY GOOD LORD
+
+I jus realized that i was using 10***P***F capacitors not 10 ***U***F capacitors. I just went through them all, double checking everything. Another thing is, I was using 0402s, which means that they can't hand >6.3V, which a few of my circuits were using, so then, again, I went through them all, and changed the higher voltage ones to 0603s. oh my lord. If I had missed this, my entire board would not have worked, and I wouldn't have knon why...
+
+anyways, back to the topic.
+
+Here is the charging circuit:
+
+![image](https://github.com/user-attachments/assets/362a580b-8782-4024-a26a-0867d61943ca)
+
+(I added a decoupling cap and a 3 ohm resistor, as the datasheet said) Here is the PCB image:
+
+![image](https://github.com/user-attachments/assets/93081756-4e1b-4781-8d45-f8edffe1c44d)
+
+This literally took my like 5 hours to completely do. I am so happy I caught my error --> I though pf and uf were the same!!!!!
+
+Well I'm a log off. I worked way too late on the capacitor stuff, and will probably have to double check stuff in the morning...
+
+### HOURS COMPLETED: 7 (TOTAL:101)
+
