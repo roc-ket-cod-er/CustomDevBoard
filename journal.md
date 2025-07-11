@@ -658,3 +658,27 @@ And thats about it. I'll leave you with some amazing images:
 <img width="444" height="897" alt="image" src="https://github.com/user-attachments/assets/2a0e96e3-4cbe-4cad-8e8a-c22682bb835c" />
 
 ### Hours: 3.5 (TOTAL:14.5)
+
+## Day 37 (JU11) Tooling, User, & Misc
+
+Today, I worked on going over everything, adding a few features, etc.
+
+Two of the biggest problems I saw were that the microSD card's datawires had not been hooked up (whoops!) so I did that, and that the backlight pin on the LCD was not hooked to a gpio for modulation.
+
+I also added a simple legend:
+
+<img width="866" height="625" alt="image" src="https://github.com/user-attachments/assets/b8ecbc69-af28-413b-ae2c-b98553195b8d" />
+
+and this whole thing:
+
+<img width="604" height="540" alt="image" src="https://github.com/user-attachments/assets/ee4f5591-1440-4a04-ad80-ab595e2a4abf" />
+
+this is a voltage shifter, which takes in an external voltage > 3.3V, and converts it into another voltage, provided by the user. It took soo much time to wire everything properly, but hey it is 4 shifters in such a compact area. I might also add a power booster, basically providing like 1a ish output from an input of the user's choice.
+
+more images!!
+
+<img width="703" height="601" alt="image" src="https://github.com/user-attachments/assets/e52a69ab-81a6-4c81-ac6d-a24988878cd5" />
+
+<img width="757" height="579" alt="image" src="https://github.com/user-attachments/assets/31c66b0e-4ae1-4455-aa16-7e47fabfb60a" />
+
+HOURS: 5 (TOTAL 19.5) <sub> (I know this may seem much, but the silkscreen stuff voltage shifters and mounting holes really took this much time) </sub>
