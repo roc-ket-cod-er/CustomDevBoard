@@ -681,4 +681,6 @@ more images!!
 
 <img width="757" height="579" alt="image" src="https://github.com/user-attachments/assets/31c66b0e-4ae1-4455-aa16-7e47fabfb60a" />
 
-HOURS: 5 (TOTAL 19.5) <sub> (I know this may seem much, but the silkscreen stuff voltage shifters and mounting holes really took this much time) </sub>
+I have now started looking for a mosfet to use. the AO3400A looking nice.
+
+HOURS: 5.5 (TOTAL 19.5) <sub> (I know this may seem much, but the silkscreen stuff voltage shifters and mounting holes really took this much time) </sub>
