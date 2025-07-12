@@ -657,7 +657,7 @@ And thats about it. I'll leave you with some amazing images:
 
 <img width="444" height="897" alt="image" src="https://github.com/user-attachments/assets/2a0e96e3-4cbe-4cad-8e8a-c22682bb835c" />
 
-### Hours: 3.5 (TOTAL:14.5)
+### Hours: 3.5 (TOTAL:104.5)
 
 ## Day 37 (JU11) Tooling, User, & Misc
 
@@ -683,4 +683,66 @@ more images!!
 
 I have now started looking for a mosfet to use. the AO3400A looking nice.
 
-HOURS: 5.5 (TOTAL 19.5) <sub> (I know this may seem much, but the silkscreen stuff voltage shifters and mounting holes really took this much time) </sub>
+### HOURS: 5.5 (TOTAL 109.5) <sub> (I know this may seem much, but the silkscreen stuff voltage shifters and mounting holes really took this much time) </sub>
+
+## Day 38 (JU 12) POWER!
+
+Today I worked on the circuit for the power amplification, and I made sure it had everything that could possible be needed, including a flyback diode!
+
+<img width="555" height="408" alt="image" src="https://github.com/user-attachments/assets/25f1beca-6b97-4b02-bd0e-1478172a06c3" />
+
+As you can see, for this particular one, I feel like just placing the components to look good, and then wiring after makes it just look so much better.
+
+<img width="955" height="610" alt="image" src="https://github.com/user-attachments/assets/e81798d6-ed3a-4a0b-ba07-51f6662b8e2a" />
+
+Now, when density is need, however, random paterns are better,
+
+<img width="798" height="771" alt="image" src="https://github.com/user-attachments/assets/d31a622e-c795-4ea2-beb1-c4569b4fdba1" />
+
+<img width="971" height="594" alt="image" src="https://github.com/user-attachments/assets/3804cc12-1c36-49e7-8c37-42e59f9479e0" />
+
+but I sort of realized that I have enough space, and maybe I should have prioritized space...
+
+I am probably going to add one or two more sets of these power amplifiers, however using headers that can actually output that much power.
+
+Ok. done!
+
+I think I may have finished the PCB!!!!!!!!!!!
+
+I checked through JLCPCB, and the grand total comes to $212.30!
+
+<img width="416" height="270" alt="image" src="https://github.com/user-attachments/assets/68b36f99-b40e-488b-939b-345ced0df6e7" />
+
+I am not going to lie that was sooo much work :(
+
+Oh yeah, and as for what I did recently, I worked on adding the last power amplifier, and here it is:
+
+<img width="699" height="385" alt="image" src="https://github.com/user-attachments/assets/3a08d811-9352-475e-a04e-d677a2ae0a7b" />
+
+<img width="823" height="682" alt="image" src="https://github.com/user-attachments/assets/8906fcce-42ae-436f-a0e1-8277fc2b4c97" />
+
+I spent way too much time researching about mosfet gate driving and stuff, but eventually settled on using the same thing as the other ones, just with a more powerful connector.
+
+<img width="876" height="337" alt="image" src="https://github.com/user-attachments/assets/7573bf1b-8fc0-4035-856d-a230987433a4" />
+
+Here are the finilized board's pictures:
+
+<sub> top </sub>
+
+<img width="757" height="819" alt="image" src="https://github.com/user-attachments/assets/acfaa506-9f8c-4fc8-b410-1b72d0663212" />
+
+<img width="1206" height="755" alt="image" src="https://github.com/user-attachments/assets/8b532a40-c227-4a59-84da-7a1e1acfb426" />
+
+<img width="437" height="761" alt="image" src="https://github.com/user-attachments/assets/76d35913-3e6b-4d22-bad2-126c5df73ac7" />
+
+<sub> back </sub>
+
+<img width="707" height="798" alt="image" src="https://github.com/user-attachments/assets/58a49a22-2a52-4c74-9bbb-8d52ff9054d1" />
+
+<img width="1327" height="712" alt="image" src="https://github.com/user-attachments/assets/a7a65fd2-ccf1-4fd8-8e1b-a7fd65219843" />
+
+<img width="675" height="885" alt="image" src="https://github.com/user-attachments/assets/a5606885-edf5-4efc-8013-534deac73089" />
+
+Well tomorow I work on the case. I am going to do a quick job, as I have already spent 115 hours...
+
+HOURS: 5.5 (TOTAL: 115)
