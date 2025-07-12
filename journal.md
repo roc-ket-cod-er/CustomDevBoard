@@ -745,4 +745,6 @@ Here are the finilized board's pictures:
 
 Well tomorow I work on the case. I am going to do a quick job, as I have already spent 115 hours...
 
+![5JbRW2](https://github.com/user-attachments/assets/97cf61af-8872-49ca-b90a-34f1e4367c16)
+
 HOURS: 5.5 (TOTAL: 115)
