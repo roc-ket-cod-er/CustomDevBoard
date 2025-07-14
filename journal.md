@@ -747,4 +747,18 @@ Well tomorow I work on the case. I am going to do a quick job, as I have already
 
 ![5JbRW2](https://github.com/user-attachments/assets/97cf61af-8872-49ca-b90a-34f1e4367c16)
 
-HOURS: 5.5 (TOTAL: 115)
+### HOURS: 5.5 (TOTAL: 115)
+
+## Day 39 (JU 13): RTC & 3D
+
+Today I just (not really) quicky added an RTC, on the I2C bus. There are actually a gazillion i2c thingys, so I added some address markers for each. Here is the main part of the board now. I put the RTC under the OLED.
+
+<img width="788" height="844" alt="image" src="https://github.com/user-attachments/assets/2aa6abcd-ab1f-47b0-9bc5-fca854a18a3a" />
+
+<img width="970" height="716" alt="image" src="https://github.com/user-attachments/assets/b0c91e2b-35e3-4cd7-8fa0-caa6a7b56f2d" />
+
+Time to get to 3d modelling...
+
+Ok. I did some modelling, but you know how I was slow for pcb? I am getting through this even slower. I got the side stuff to work, and now when I was doing the top piece, I kept doing something, undoing it... it is hard to get right.
+
+### HOURS: 5 (TOTAL:120)
