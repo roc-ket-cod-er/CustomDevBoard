@@ -762,3 +762,35 @@ Time to get to 3d modelling...
 Ok. I did some modelling, but you know how I was slow for pcb? I am getting through this even slower. I got the side stuff to work, and now when I was doing the top piece, I kept doing something, undoing it... it is hard to get right.
 
 ### HOURS: 5 (TOTAL:120)
+
+## Day 40. I think I have finished...
+
+Well lets start off with a screenshot!
+
+<img width="751" height="731" alt="image" src="https://github.com/user-attachments/assets/0d5980ff-48c2-4103-afe8-a08202119d55" />
+
+the blue thing is my case, it is all meant to be printed in one piece, and covers the bottom.
+
+I chose to leave the top open because I would have to design battery covers and stuff, well about my skill level.
+
+So basically, I added stuff, removed stuff, and settled on this. At one point I was also working on a back cover, but I abandoned it.
+
+Also, here is what it all looks like:
+
+<img width="617" height="804" alt="image" src="https://github.com/user-attachments/assets/15a2bcfb-2a38-4ade-b0b0-315b98733946" />
+
+Oh yeah, I also added a switch to control the power to the LCD, and fixed up a bit of wiring. I also added a ground terminal for high-power stuff.
+
+I also have started via-ification!
+
+<img width="548" height="489" alt="image" src="https://github.com/user-attachments/assets/e0b8a0b4-43ab-4f68-a0ed-2cccb18dff84" />
+
+oops.. I just wasted my time. There is a function that places the vias for me!:
+
+<img width="755" height="763" alt="image" src="https://github.com/user-attachments/assets/1cc07d24-6f0a-4e23-b60f-948e4235604a" />
+
+and thus i finished...
+
+will submit tomorow.
+
+### HOURS 5 (TOTAL: 125)
