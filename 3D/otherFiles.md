@@ -5,6 +5,3 @@ https://drive.google.com/file/d/15dLdp-lkJGh-nuzBtm1syG6x1YY1dEZq/view?usp=shari
 
 ### STEP Files:
 https://drive.google.com/file/d/1PlHHWmAJUa3yyi2T4Pp1Oexk_kZH2a6B/view?usp=sharing
-
-### PCB Final File:
-
