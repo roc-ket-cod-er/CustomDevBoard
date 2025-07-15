@@ -33,7 +33,10 @@ Basically, you get as many features possible all crammed into a 100x100mm PCB, w
 
 <img width="819" height="859" alt="image" src="https://github.com/user-attachments/assets/9812f352-ee21-4263-9d21-7c28e7629707" />
 
-<img width="618" height="891" alt="image" src="https://github.com/user-attachments/assets/b688995a-9fcb-4ce4-b3ae-45e8dbf7c6a0" />
+<img width="833" height="639" alt="image" src="https://github.com/user-attachments/assets/dc876a51-6797-4b8c-83da-39726be80cb5" />
+
+<img width="913" height="816" alt="image" src="https://github.com/user-attachments/assets/f8dad764-8f40-4a71-b7fa-16502ee3f545" />
+
 
 I set off to build this devboard simply because I was tired of questioning whether it was the fault of the software or hardware. With the entire PCB pre-made and tested, we can remove hardware from the list of uncertanities. I also always wanted to make a battery-power GPS, so this can work for this, but if I get board of the GPS, it can always be reperporsed for almost any task, especiall with those 60+ availible GPIOs.
 
