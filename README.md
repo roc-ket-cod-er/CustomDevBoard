@@ -38,7 +38,7 @@ Basically, you get as many features possible all crammed into a 100x100mm PCB, w
 I set off to build this devboard simply because I was tired of questioning whether it was the fault of the software or hardware. With the entire PCB pre-made and tested, we can remove hardware from the list of uncertanities. I also always wanted to make a battery-power GPS, so this can work for this, but if I get board of the GPS, it can always be reperporsed for almost any task, especiall with those 60+ availible GPIOs.
 
 ## BOM
-<sub> shipping not included </sub>
+<sub> *Shipping not included </sub>
 
 | Item | Cost (approx) | Link |
 | - | - | - |
