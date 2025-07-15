@@ -47,3 +47,4 @@ I set off to build this devboard simply because I was tired of questioning wheth
 | - | - | - |
 | PCBA (2pcs) | $155.80  | jlcpcb.com |
 | Case | $ 24.19 | jlc3dp.com |
+| CR2032 | $5.50 | https://www.canadiantire.ca/en/pdp/energizer-1-pk-cr2032-3v-3-volt-lithium-coin-cell-battery-long-lasting-0651016p.html |
