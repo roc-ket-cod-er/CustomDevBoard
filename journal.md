@@ -800,3 +800,11 @@ will submit tomorow.
 ## Sumbiting and tuning
 
 Today I finished the pcb. I just added a small cr2032 holder for the back up batteries. that took some time as there are sooooo many components on the board already, but I did it. Then I just worked on submitting.
+
+## Ordering Parts.
+
+Today, I just worked on adding everything to my cart on LCSC...
+
+And payed for my PCB
+
+### HOURS 1
