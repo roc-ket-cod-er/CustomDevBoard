@@ -808,3 +808,11 @@ Today, I just worked on adding everything to my cart on LCSC...
 And payed for my PCB
 
 ### HOURS 1
+
+## Day 41: 3D printing and parts
+
+Today, I went to the library, 10 minutes after it opened, ... and both printers were already booked for the day. I guess I will have to be earlier tomorow ...
+
+Anyways, all the parts arrived, and as far as I can tell, are all working perfectly
+
+#### HOURS 0.5 (TOTAL:126.5)
