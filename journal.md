@@ -815,4 +815,10 @@ Today, I went to the library, 10 minutes after it opened, ... and both printers 
 
 Anyways, all the parts arrived, and as far as I can tell, are all working perfectly
 
-#### HOURS 0.5 (TOTAL:126.5)
+### HOURS 0.5 (TOTAL:126.5)
+
+## Day 42: Real Coding... (failing) (8/5)
+
+I decided to go do my real coding. Aaaand basically lost my entire evening. The boards came sometime late-ish today, and the RP2350 stuff seems to be ok, but I can't get the GPS to respond to my commands, so I spend 1+ hours debugging that, and another 3 hours trying the get the ESP32 working. For some reason, it just insn't being detected...
+
+## HOURS 4 (TOTAL:130.5)
