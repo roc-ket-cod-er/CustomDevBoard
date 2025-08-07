@@ -29,6 +29,10 @@ Basically, you get as many features possible all crammed into a 100x100mm PCB, w
 
 <img width="937" height="874" alt="image" src="https://github.com/user-attachments/assets/7eed51fc-548c-4b01-8458-d8d84b3ab9e5" />
 
+![1](https://github.com/user-attachments/assets/2c217248-7891-4c87-b379-94c0bc817643)
+
+![1](https://github.com/user-attachments/assets/9307265d-f144-4d4a-b0cf-526d01678c3f)
+
 <img width="1072" height="797" alt="image" src="https://github.com/user-attachments/assets/391e5261-d761-4227-9cbb-4c615faaec03" />
 
 <img width="819" height="859" alt="image" src="https://github.com/user-attachments/assets/9812f352-ee21-4263-9d21-7c28e7629707" />
@@ -38,7 +42,7 @@ Basically, you get as many features possible all crammed into a 100x100mm PCB, w
 <img width="913" height="816" alt="image" src="https://github.com/user-attachments/assets/f8dad764-8f40-4a71-b7fa-16502ee3f545" />
 
 
-I set off to build this devboard simply because I was tired of questioning whether it was the fault of the software or hardware. With the entire PCB pre-made and tested, we can remove hardware from the list of uncertanities. I also always wanted to make a battery-power GPS, so this can work for this, but if I get board of the GPS, it can always be reperporsed for almost any task, especiall with those 60+ availible GPIOs.
+I set off to build this devboard simply because I was tired of questioning whether it was the fault of the software or hardware. With the entire PCB pre-made and tested, we can remove hardware from the list of uncertanities. I also always wanted to make a battery-power GPS, so this can work for this, but if I get board of the GPS, it can always be reperposed for almost any task, especiall with those 60+ availible GPIOs.
 
 ## BOM
 <sub> *Shipping not included </sub>
