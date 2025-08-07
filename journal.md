@@ -830,4 +830,10 @@ The same for the SDCard...
 
 However, I was able to get the I2C RTC and the I2C IMU working, so atleast I have the compass, accelerometer and gyro!
 
+Basically, here's the problem. If you take a look at my schematic, I only really made one tiny tiny mistake. Right here:
+
+<img width="453" height="535" alt="image" src="https://github.com/user-attachments/assets/b68c4c39-8103-42b2-85e2-265e966c8bb4" />
+
+However, these are the very pins that are used by the LCD, SDCard and all the other SPI devices.
+
 HOURS: 3 / 130.5
