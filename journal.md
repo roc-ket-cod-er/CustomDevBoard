@@ -821,4 +821,13 @@ Anyways, all the parts arrived, and as far as I can tell, are all working perfec
 
 I decided to go do my real coding. Aaaand basically lost my entire evening. The boards came sometime late-ish today, and the RP2350 stuff seems to be ok, but I can't get the GPS to respond to my commands, so I spend 1+ hours debugging that, and another 3 hours trying the get the ESP32 working. For some reason, it just insn't being detected...
 
-## HOURS 4 (TOTAL:130.5)
+### HOURS 4 (TOTAL:130.5)
+
+## Day 43: Screens... (8/6)
+
+Today I spend waaaay too much time trying to get the screen to work, however no matter what I did, I could only get it to show a white background.\
+The same for the SDCard...
+
+However, I was able to get the I2C RTC and the I2C IMU working, so atleast I have the compass, accelerometer and gyro!
+
+HOURS: 3 / 130.5
