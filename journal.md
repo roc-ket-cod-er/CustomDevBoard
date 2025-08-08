@@ -836,4 +836,22 @@ Basically, here's the problem. If you take a look at my schematic, I only really
 
 However, these are the very pins that are used by the LCD, SDCard and all the other SPI devices.
 
-HOURS: 3 / 130.5
+### HOURS: 3 / 130.5
+
+## Day 44: uh oh (8/7)
+
+I just realized:
+
+<img width="350" height="111" alt="image" src="https://github.com/user-attachments/assets/b931a6f1-d0d4-47b6-bfec-e25a3adb230b" />
+
+The ESP32 isn't working because the UART-USB bridge isn't getting power...
+
+I will try to find a way to do it...
+
+---
+
+ok, I got it to detect, however the only way i could do it was by using a needle, definitely not going to work for most things... maybe for a set and forget thingy...
+
+I also spent a bunch of time trying to debug the charger, as I don't think its working. I only measured a current of 3 mA, at 3.7 v, when its supposed to be >500mA @ 7.4~8.4 V
+
+### HOURS: 3 / 133.5
