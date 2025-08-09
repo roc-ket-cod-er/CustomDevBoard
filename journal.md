@@ -855,3 +855,15 @@ ok, I got it to detect, however the only way i could do it was by using a needle
 I also spent a bunch of time trying to debug the charger, as I don't think its working. I only measured a current of 3 mA, at 3.7 v, when its supposed to be >500mA @ 7.4~8.4 V
 
 ### HOURS: 3 / 133.5
+
+## Day 45: GPS!!! (8/8 & 9)
+
+<img width="412" height="153" alt="image" src="https://github.com/user-attachments/assets/cb8056ef-86c0-4e36-a5e7-6bf0c4f854b6" />
+
+I don't know how, but somehow, I just copied the example code, the same that didn't work before, and it worked! Just like that!
+
+And then I spent the rest of eternity trying to get the SDCard to work :( (it didn't btw)
+
+All I could get out the card was a successful detect, however it said V2 Card timed out, but hey it detected it was a V2 card, whatever that means.
+
+HOURS: 3.5 / 134
