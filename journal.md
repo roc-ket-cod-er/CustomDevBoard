@@ -867,3 +867,9 @@ And then I spent the rest of eternity trying to get the SDCard to work :( (it di
 All I could get out the card was a successful detect, however it said V2 Card timed out, but hey it detected it was a V2 card, whatever that means.
 
 HOURS: 3.5 / 134
+
+## Day 46: Coding w/ GPS (8/10~12)
+
+I have just been tinkering away with the GPS. Its actually been soo much learning with all of this stuff. I am so glad Hack Club's Highway was able to pay for this! One of the coolest things ever!
+
+HOURS: ~6 / 140
